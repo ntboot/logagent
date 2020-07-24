@@ -1,0 +1,16 @@
+{
+  "info": [
+    {
+      "topic": "loginmmo",
+      "logfile": "./logs/login.log"
+    },
+    {
+      "topic": "register",
+      "logfile": "./logs/register.log"
+    },
+    {
+      "topic": "system",
+      "logfile": "./logs/system.log"
+    }
+  ]
+}
