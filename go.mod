@@ -1,4 +1,4 @@
-module Lightclass/logagent
+module github.com/ntboot/logagent
 
 go 1.13
 
